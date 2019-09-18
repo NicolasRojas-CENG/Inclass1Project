@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inclass1Project</string>
+    <string name="say_hi">Say hi!</string>
+    <string name="say_hello_to_android">Say hello to Android.</string>
+</resources>
